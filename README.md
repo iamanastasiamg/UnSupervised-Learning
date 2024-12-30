@@ -1,2 +1,2 @@
 # UnSupervised-Learning
-The module focuses on techniques that allow for the analysis and understanding of data without the need for labels or supervising factors. Participants will learn methods such as clustering, dimensionality reduction, and principal component analysis (PCA).
+The module focuses on techniques that allow for the analysis and understanding of data without the need for labels or supervising factors. Participants will learn methods such as clustering, dimensionality reduction, and principal component analysis (PCA). The module includes practical exercises that enable participants to apply these techniques to real-world data, discovering underlying patterns and structures.
